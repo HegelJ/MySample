@@ -10,13 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-<<<<<<< HEAD
             Console.WriteLine("First change. and this is second");
-=======
->>>>>>> parent of dc23033... first
-=======
->>>>>>> parent of dc23033... first
         }
     }
 }
