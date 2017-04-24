@@ -10,7 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First change. and this is second. and this is third..");
+
+            Console.WriteLine("First change. and this is second. and this is third.");
+	    Console.WriteLine("And this too.");	
+
         }
     }
 }
